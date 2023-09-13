@@ -1,0 +1,16 @@
+
+h1{padding-top: 60px; text-align: center; font-size: 45px;font-family:sans-serif;color:steelblue}
+h2{color:steelblue;font-size:20px;font-family:sans-serif; text-align: left}
+
+h3{color:black;font-size: 15px; text-align: left; font-size:16px}
+h4{text-align: left}
+aside{float:right; width:20%;margin-right:40px}
+
+section{float:left;width:65%;padding-bottom: 250px;margin-left: 50px}
+header{float:right; width:15%;margin-right:15px;margin-top:15px}
+
+margin{border-right: 50px; border-left:40px;border-top=23px;}
+
+ul{list-style:circle}
+body{font-family: sans-serif}
+p{color:darkgrey;font-family: sans-serif; font-size: 14px;font-style: italic}
